@@ -452,3 +452,11 @@ header .navbar a:hover {
     background: #fff;
   }
 }
+@media (max-width: 450px) {
+  html {
+    font-size: 50%;
+  }
+  .order .inputBox input {
+    width: 100%;
+  }
+}
